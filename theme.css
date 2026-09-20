@@ -273,45 +273,6 @@
   --syntax-deletion: #a42a41;
 }
 
-:root:where([data-design-theme='hello-kitty'][data-theme='reading']) {
-  --container-color-alt: color-mix(in srgb, var(--hello-kitty-pure-white) 97%, var(--hello-kitty-bright-yellow));
-  --pane-bg: var(--container-color-alt);
-  --container-color: color-mix(in srgb, var(--hello-kitty-pure-white) 82%, var(--hello-kitty-classic-pink));
-  --surface-color: var(--container-color);
-  --surface-color-alt: var(--container-color-alt);
-  --body-color: color-mix(in srgb, var(--hello-kitty-pure-white) 68%, var(--hello-kitty-classic-pink));
-  --container-color-light: var(--body-color);
-  --container-color-alt-transparent: color-mix(in srgb, var(--container-color-alt) 88%, transparent);
-  --title-color: var(--hello-kitty-midnight-black);
-  --text-color: color-mix(in srgb, var(--hello-kitty-midnight-black) 80%, var(--hello-kitty-pure-white));
-  --text-secondary: #795b63;
-  --text-tertiary: #84666d;
-  --textColorRGBA: color-mix(in srgb, var(--text-color) 40%, transparent);
-  --border-light: color-mix(in srgb, var(--hello-kitty-midnight-black) 9%, transparent);
-  --border-medium: color-mix(in srgb, var(--hello-kitty-midnight-black) 17%, transparent);
-  --hover-bg: color-mix(in srgb, var(--hello-kitty-midnight-black) 7%, transparent);
-  --accent-color: var(--hello-kitty-signature-red);
-  --accent-contrast: var(--hello-kitty-pure-white);
-  --selection-color: 225, 27, 46;
-  --accent-tint-bg: color-mix(in srgb, var(--hello-kitty-classic-pink) 32%, transparent);
-  --accent-tint-text: #a91b30;
-  --accent-soft-bg: color-mix(in srgb, var(--hello-kitty-classic-pink) 14%, transparent);
-  --dropzone-bg: color-mix(in srgb, var(--hello-kitty-classic-pink) 26%, transparent);
-  --info-color: var(--hello-kitty-signature-red);
-  --info-color-bg: color-mix(in srgb, var(--hello-kitty-classic-pink) 22%, transparent);
-  --syntax-comment: var(--text-secondary);
-  --syntax-keyword: var(--accent-tint-text);
-  --syntax-string: #46603a;
-  --syntax-number: #7e5129;
-  --syntax-type: #3e6175;
-  --syntax-variable: #685728;
-  --syntax-tag: #38645a;
-  --syntax-function: #6a4e83;
-  --syntax-addition: #46603a;
-  --syntax-deletion: #934338;
-  --markdown-line-height: 1.75;
-}
-
 :where([data-design-theme='hello-kitty']) .sidebar {
   background-image: radial-gradient(circle at 13px 13px, color-mix(in srgb, var(--sidebar-text) 8%, transparent) 1px, transparent 1.5px);
   background-size: 24px 24px;
