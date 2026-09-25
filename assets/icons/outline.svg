@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="8" cy="11" r="3" fill="var(--theme-icon-accent, #e83161)" stroke="none" stroke-width="2"/><circle cx="8" cy="24" r="3" fill="var(--theme-icon-soft, #ffc0d5)" stroke="var(--theme-icon-ink, currentColor)" stroke-width="1"/><circle cx="8" cy="37" r="3" fill="var(--theme-icon-soft, #ffc0d5)" stroke="var(--theme-icon-ink, currentColor)" stroke-width="1"/><path d="M17 11H41M17 24H33M17 37H27" fill="none" stroke="var(--theme-icon-line, currentColor)" stroke-width="3"/>
+  </g>
+</svg>

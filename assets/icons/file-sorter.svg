@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M7 13H23M7 24H19M7 35H15M34 6V42M28 12L34 6L40 12M28 36L34 42L40 36" fill="none" stroke="var(--theme-icon-line, currentColor)" stroke-width="2.8"/><circle cx="7" cy="13" r="2" fill="var(--theme-icon-accent, #e83161)" stroke="none" stroke-width="2"/>
+  </g>
+</svg>

@@ -1,12 +1,124 @@
 {
   "id": "hello-kitty",
   "name": "Hello Kitty",
-  "version": "1.1.0",
-  "description": "Petal pink, signature red, soft cream, and playful rounded details. Three coordinated modes with clear, comfortable text.",
+  "version": "2.0.0",
+  "description": "Strawberry paper and deep cherry, ribbon tabs, Boldins headings, Files and footer with readable body text, and expressive Hello Kitty artwork in Light and Dark.",
   "author": [
     "nausicaa"
   ],
   "authorUrl": [
     "https://github.com/nausicaa-io"
-  ]
+  ],
+  "appearance": {
+    "fonts": [
+      {
+        "family": "Boldins",
+        "src": "assets/fonts/boldins.otf",
+        "weight": "400",
+        "style": "normal"
+      }
+    ],
+    "icons": {
+      "files": {
+        "inactive": "assets/icons/files-inactive.svg",
+        "active": "assets/icons/files-active.svg"
+      },
+      "search": {
+        "inactive": "assets/icons/search-inactive.svg",
+        "active": "assets/icons/search-active.svg"
+      },
+      "bookmarks": {
+        "inactive": "assets/icons/bookmarks-inactive.svg",
+        "active": "assets/icons/bookmarks-active.svg"
+      },
+      "bookmark-toggle": "assets/icons/bookmark-toggle.svg",
+      "collapse-all": "assets/icons/collapse-all.svg",
+      "create-folder": "assets/icons/create-folder.svg",
+      "create-note": "assets/icons/create-note.svg",
+      "expand-all": "assets/icons/expand-all.svg",
+      "folder-open": "assets/icons/folder-open.svg",
+      "folder": "assets/icons/folder.svg",
+      "follow-active-file": "assets/icons/follow-active-file.svg",
+      "settings": "assets/icons/settings.svg",
+      "sort-created-ascending": "assets/icons/sort-created-ascending.svg",
+      "sort-created-descending": "assets/icons/sort-created-descending.svg",
+      "sort-modified-ascending": "assets/icons/sort-modified-ascending.svg",
+      "sort-modified-descending": "assets/icons/sort-modified-descending.svg",
+      "sort-name-ascending": "assets/icons/sort-name-ascending.svg",
+      "sort-name-descending": "assets/icons/sort-name-descending.svg",
+      "toggle-left-sidebar": "assets/icons/toggle-left-sidebar.svg",
+      "toggle-right-sidebar": "assets/icons/toggle-right-sidebar.svg",
+      "play": "assets/icons/play.svg",
+      "pause": "assets/icons/pause.svg",
+      "volume-on": "assets/icons/volume-on.svg",
+      "volume-muted": "assets/icons/volume-muted.svg",
+      "more-options": "assets/icons/more-options.svg",
+      "enter-fullscreen": "assets/icons/enter-fullscreen.svg",
+      "exit-fullscreen": "assets/icons/exit-fullscreen.svg",
+      "playback-speed": "assets/icons/playback-speed.svg",
+      "previous-track": "assets/icons/previous-track.svg",
+      "next-track": "assets/icons/next-track.svg",
+      "rewind-15": "assets/icons/rewind-15.svg",
+      "forward-15": "assets/icons/forward-15.svg",
+      "appearance-light": "assets/icons/appearance-light.svg",
+      "appearance-dark": "assets/icons/appearance-dark.svg",
+      "appearance-system": "assets/icons/appearance-system.svg",
+      "time-picker": "assets/icons/time-picker.svg",
+      "audio-artwork": "assets/icons/audio-artwork.svg",
+      "properties": "assets/icons/properties.svg",
+      "rename": "assets/icons/rename.svg",
+      "show-in-file-manager": "assets/icons/show-in-file-manager.svg",
+      "reveal-in-file-tree": "assets/icons/reveal-in-file-tree.svg",
+      "open-in-default-app": "assets/icons/open-in-default-app.svg",
+      "copy": "assets/icons/copy.svg",
+      "copy-link": "assets/icons/copy-link.svg",
+      "delete": "assets/icons/delete.svg",
+      "outline": "assets/icons/outline.svg",
+      "outgoing-links": "assets/icons/outgoing-links.svg",
+      "backlinks": "assets/icons/backlinks.svg",
+      "viewer-controls": "assets/icons/viewer-controls.svg",
+      "annotations": "assets/icons/annotations.svg",
+      "thumbnails": "assets/icons/thumbnails.svg",
+      "font-controls": "assets/icons/font-controls.svg",
+      "notebook-runtime": "assets/icons/notebook-runtime.svg",
+      "notebook-data": "assets/icons/notebook-data.svg",
+      "general": "assets/icons/general.svg",
+      "preferences": "assets/icons/preferences.svg",
+      "appearance": "assets/icons/appearance.svg",
+      "themes": "assets/icons/themes.svg",
+      "notifications": "assets/icons/notifications.svg",
+      "hotkeys": "assets/icons/hotkeys.svg",
+      "file-details": "assets/icons/file-details.svg",
+      "file-sorter": "assets/icons/file-sorter.svg",
+      "editor": "assets/icons/editor.svg",
+      "editor-tabs": "assets/icons/editor-tabs.svg",
+      "accounts": "assets/icons/accounts.svg",
+      "security": "assets/icons/security.svg",
+      "permissions": "assets/icons/permissions.svg",
+      "plugins": "assets/icons/plugins.svg",
+      "groups": "assets/icons/groups.svg",
+      "connections": "assets/icons/connections.svg",
+      "icon-rail": "assets/icons/icon-rail.svg",
+      "footer-rail": "assets/icons/footer-rail.svg",
+      "plugin-startup": "assets/icons/plugin-startup.svg",
+      "new-tab": "assets/icons/new-tab.svg",
+      "tab-list": "assets/icons/tab-list.svg",
+      "stack-tabs": "assets/icons/stack-tabs.svg",
+      "close": "assets/icons/close.svg",
+      "selected": "assets/icons/selected.svg",
+      "info": "assets/icons/info.svg"
+    },
+    "startup": "assets/animations/startup.svg",
+    "loading": "assets/animations/content-loading.svg",
+    "media": {
+      "audio": {
+        "layout": "templates/audio/layout.json",
+        "style": "templates/audio/style.css"
+      },
+      "video": {
+        "layout": "templates/video/layout.json",
+        "style": "templates/video/style.css"
+      }
+    }
+  }
 }

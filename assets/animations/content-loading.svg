@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 180" class="hk-loading-art"><g class="hk-kitty-character" transform="translate(10 0)">
+            
+            <g class="hk-kitty-frame hk-kitty-frame-1">
+              
+              <path d="M 58 144 L 58 162 C 58 166.5, 62 168, 70 168 C 78 168, 82 166.5, 82 162 L 82 144 Z" fill="var(--theme-icon-face)" stroke="var(--theme-icon-ink)" stroke-width="3.6" stroke-linejoin="round" />
+
+              
+              <path d="M 62 110 C 62 106, 108 106, 108 110 L 114 125 L 56 125 Z" fill="var(--theme-icon-soft)" />
+
+              
+              <path d="M 65 116 C 62 113, 72 110, 85 110 C 98 110, 108 113, 105 116 L 110 138 C 110 149, 102 153, 85 153 C 68 153, 60 149, 60 138 Z" fill="var(--theme-icon-accent)" stroke="var(--theme-icon-ink)" stroke-width="3.6" stroke-linejoin="round" />
+
+              
+              <circle cx="71" cy="124" r="3.6" fill="var(--theme-icon-face)" stroke="var(--theme-icon-ink)" stroke-width="2.2" />
+              <circle cx="99" cy="124" r="3.6" fill="var(--theme-icon-face)" stroke="var(--theme-icon-ink)" stroke-width="2.2" />
+
+              
+              <g transform="translate(101, 147) rotate(-16)">
+                <ellipse cx="0" cy="0" rx="16" ry="18.5" fill="var(--theme-icon-face)" stroke="var(--theme-icon-ink)" stroke-width="3.6" />
+              </g>
+
+              
+              <g class="hk-arm-left">
+                <path d="M 56 114 L 41 123 C 39 126, 44 132, 50 129 L 59 119 Z" fill="var(--theme-icon-soft)" stroke="var(--theme-icon-ink)" stroke-width="3" stroke-linejoin="round" />
+                <path d="M 43 122 C 35 125, 33 135, 39 139 C 46 143, 51 137, 49 130 Z" fill="var(--theme-icon-face)" stroke="var(--theme-icon-ink)" stroke-width="3.4" stroke-linejoin="round" />
+              </g>
+
+              
+              <g class="hk-arm-right">
+                <path d="M 113 114 L 126 107 C 130 110, 130 117, 124 121 L 110 122 Z" fill="var(--theme-icon-soft)" stroke="var(--theme-icon-ink)" stroke-width="3" stroke-linejoin="round" />
+                <path d="M 124 108 C 129 100, 139 102, 140 109 C 141 117, 132 121, 125 119 Z" fill="var(--theme-icon-face)" stroke="var(--theme-icon-ink)" stroke-width="3.4" stroke-linejoin="round" />
+              </g>
+
+              
+              <g transform="rotate(-1.5 85 90)">
+                
+                <path d="M 85 45 C 97 45, 107 42, 114 35 C 119 30, 126 34, 125 42 C 127 51, 131 62, 135 73 C 138 83, 138 95, 135 103 C 129 114, 112 117, 85 117 C 58 117, 41 114, 35 103 C 32 95, 32 83, 35 73 C 39 62, 43 51, 45 42 C 44 34, 51 30, 56 35 C 63 42, 73 45, 85 45 Z" fill="var(--theme-icon-face)" stroke="var(--theme-icon-ink)" stroke-width="3.6" stroke-linejoin="round" stroke-linecap="round" />
+
+                
+                <ellipse cx="52" cy="102" rx="7.5" ry="4.5" fill="var(--theme-icon-blush)" />
+                <ellipse cx="118" cy="102" rx="7.5" ry="4.5" fill="var(--theme-icon-blush)" />
+
+                
+                <line x1="34" y1="83" x2="13" y2="80" stroke="var(--theme-icon-line, currentColor)" stroke-width="3.6" stroke-linecap="round" />
+                <line x1="33" y1="92" x2="10" y2="92" stroke="var(--theme-icon-line, currentColor)" stroke-width="3.6" stroke-linecap="round" />
+                <line x1="35" y1="101" x2="14" y2="105" stroke="var(--theme-icon-line, currentColor)" stroke-width="3.6" stroke-linecap="round" />
+
+                <line x1="136" y1="83" x2="157" y2="80" stroke="var(--theme-icon-line, currentColor)" stroke-width="3.6" stroke-linecap="round" />
+                <line x1="137" y1="92" x2="160" y2="92" stroke="var(--theme-icon-line, currentColor)" stroke-width="3.6" stroke-linecap="round" />
+                <line x1="135" y1="101" x2="156" y2="105" stroke="var(--theme-icon-line, currentColor)" stroke-width="3.6" stroke-linecap="round" />
+
+                
+                <ellipse cx="65" cy="90" rx="3.4" ry="5.4" fill="var(--theme-icon-ink)" />
+                <ellipse cx="105" cy="90" rx="3.4" ry="5.4" fill="var(--theme-icon-ink)" />
+
+                
+                <ellipse cx="85" cy="94" rx="5" ry="3.6" fill="var(--theme-icon-gold)" stroke="var(--theme-icon-ink)" stroke-width="2.2" />
+
+                
+                <g transform="translate(112, 54) rotate(22)">
+                  <path d="M -4 -2 C -14 -11, -26 -6, -26 5 C -26 16, -14 18, -4 8 Z" fill="var(--theme-icon-accent)" stroke="var(--theme-icon-ink)" stroke-width="3.4" stroke-linejoin="round" />
+                  <path d="M -19 4 C -14 7, -10 7, -6 4" stroke="var(--theme-icon-ink)" stroke-width="2.2" stroke-linecap="round" fill="none" />
+                  <path d="M 4 -2 C 14 -11, 26 -6, 26 5 C 26 16, 14 18, 4 8 Z" fill="var(--theme-icon-accent)" stroke="var(--theme-icon-ink)" stroke-width="3.4" stroke-linejoin="round" />
+                  <path d="M 19 4 C 14 7, 10 7, 6 4" stroke="var(--theme-icon-ink)" stroke-width="2.2" stroke-linecap="round" fill="none" />
+                  <ellipse cx="0" cy="3" rx="7.5" ry="8" fill="var(--theme-icon-accent)" stroke="var(--theme-icon-ink)" stroke-width="3.2" />
+                </g>
+              </g>
+            </g>
+
+            
+            <g class="hk-kitty-frame hk-kitty-frame-2" transform="translate(0, -3)">
+              
+              <path d="M 88 144 L 88 162 C 88 166.5, 92 168, 100 168 C 108 168, 112 166.5, 112 162 L 112 144 Z" fill="var(--theme-icon-face)" stroke="var(--theme-icon-ink)" stroke-width="3.6" stroke-linejoin="round" />
+
+              
+              <path d="M 62 110 C 62 106, 108 106, 108 110 L 114 125 L 56 125 Z" fill="var(--theme-icon-soft)" />
+
+              
+              <path d="M 65 116 C 62 113, 72 110, 85 110 C 98 110, 108 113, 105 116 L 110 138 C 110 149, 102 153, 85 153 C 68 153, 60 149, 60 138 Z" fill="var(--theme-icon-accent)" stroke="var(--theme-icon-ink)" stroke-width="3.6" stroke-linejoin="round" />
+
+              
+              <circle cx="71" cy="124" r="3.6" fill="var(--theme-icon-face)" stroke="var(--theme-icon-ink)" stroke-width="2.2" />
+              <circle cx="99" cy="124" r="3.6" fill="var(--theme-icon-face)" stroke="var(--theme-icon-ink)" stroke-width="2.2" />
+
+              
+              <g transform="translate(69, 147) rotate(16)">
+                <ellipse cx="0" cy="0" rx="16" ry="18.5" fill="var(--theme-icon-face)" stroke="var(--theme-icon-ink)" stroke-width="3.6" />
+              </g>
+
+              
+              <g class="hk-arm-left">
+                <path d="M 57 114 L 44 107 C 40 110, 40 117, 46 121 L 60 122 Z" fill="var(--theme-icon-soft)" stroke="var(--theme-icon-ink)" stroke-width="3" stroke-linejoin="round" />
+                <path d="M 46 108 C 41 100, 31 102, 30 109 C 29 117, 38 121, 45 119 Z" fill="var(--theme-icon-face)" stroke="var(--theme-icon-ink)" stroke-width="3.4" stroke-linejoin="round" />
+              </g>
+
+              
+              <g class="hk-arm-right">
+                <path d="M 114 114 L 129 123 C 131 126, 126 132, 120 129 L 111 119 Z" fill="var(--theme-icon-soft)" stroke="var(--theme-icon-ink)" stroke-width="3" stroke-linejoin="round" />
+                <path d="M 127 122 C 135 125, 137 135, 131 139 C 124 143, 119 137, 121 130 Z" fill="var(--theme-icon-face)" stroke="var(--theme-icon-ink)" stroke-width="3.4" stroke-linejoin="round" />
+              </g>
+
+              
+              <g transform="rotate(1.5 85 90)">
+                
+                <path d="M 85 45 C 97 45, 107 42, 114 35 C 119 30, 126 34, 125 42 C 127 51, 131 62, 135 73 C 138 83, 138 95, 135 103 C 129 114, 112 117, 85 117 C 58 117, 41 114, 35 103 C 32 95, 32 83, 35 73 C 39 62, 43 51, 45 42 C 44 34, 51 30, 56 35 C 63 42, 73 45, 85 45 Z" fill="var(--theme-icon-face)" stroke="var(--theme-icon-ink)" stroke-width="3.6" stroke-linejoin="round" stroke-linecap="round" />
+
+                
+                <ellipse cx="52" cy="102" rx="7.5" ry="4.5" fill="var(--theme-icon-blush)" />
+                <ellipse cx="118" cy="102" rx="7.5" ry="4.5" fill="var(--theme-icon-blush)" />
+
+                
+                <line x1="34" y1="83" x2="13" y2="80" stroke="var(--theme-icon-line, currentColor)" stroke-width="3.6" stroke-linecap="round" />
+                <line x1="33" y1="92" x2="10" y2="92" stroke="var(--theme-icon-line, currentColor)" stroke-width="3.6" stroke-linecap="round" />
+                <line x1="35" y1="101" x2="14" y2="105" stroke="var(--theme-icon-line, currentColor)" stroke-width="3.6" stroke-linecap="round" />
+
+                <line x1="136" y1="83" x2="157" y2="80" stroke="var(--theme-icon-line, currentColor)" stroke-width="3.6" stroke-linecap="round" />
+                <line x1="137" y1="92" x2="160" y2="92" stroke="var(--theme-icon-line, currentColor)" stroke-width="3.6" stroke-linecap="round" />
+                <line x1="135" y1="101" x2="156" y2="105" stroke="var(--theme-icon-line, currentColor)" stroke-width="3.6" stroke-linecap="round" />
+
+                
+                <path d="M 59 90 C 61 83, 69 83, 71 90" stroke="var(--theme-icon-ink)" stroke-width="3.8" stroke-linecap="round" fill="none" />
+                <path d="M 99 90 C 101 83, 109 83, 111 90" stroke="var(--theme-icon-ink)" stroke-width="3.8" stroke-linecap="round" fill="none" />
+
+                
+                <ellipse cx="85" cy="94" rx="5" ry="3.6" fill="var(--theme-icon-gold)" stroke="var(--theme-icon-ink)" stroke-width="2.2" />
+
+                
+                <g transform="translate(112, 54) rotate(22)">
+                  <path d="M -4 -2 C -14 -11, -26 -6, -26 5 C -26 16, -14 18, -4 8 Z" fill="var(--theme-icon-accent)" stroke="var(--theme-icon-ink)" stroke-width="3.4" stroke-linejoin="round" />
+                  <path d="M -19 4 C -14 7, -10 7, -6 4" stroke="var(--theme-icon-ink)" stroke-width="2.2" stroke-linecap="round" fill="none" />
+                  <path d="M 4 -2 C 14 -11, 26 -6, 26 5 C 26 16, 14 18, 4 8 Z" fill="var(--theme-icon-accent)" stroke="var(--theme-icon-ink)" stroke-width="3.4" stroke-linejoin="round" />
+                  <path d="M 19 4 C 14 7, 10 7, 6 4" stroke="var(--theme-icon-ink)" stroke-width="2.2" stroke-linecap="round" fill="none" />
+                  <ellipse cx="0" cy="3" rx="7.5" ry="8" fill="var(--theme-icon-accent)" stroke="var(--theme-icon-ink)" stroke-width="3.2" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </svg>

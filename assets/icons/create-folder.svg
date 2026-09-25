@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <g stroke-linecap="round" stroke-linejoin="round">
+<path d="M4 16H18L23 21H41V41H4Z" fill="var(--theme-icon-soft, #ffc0d5)" stroke="var(--theme-icon-ink, currentColor)" stroke-width="1.8" /><path d="M4 28H41" fill="none" stroke="var(--theme-icon-ink, currentColor)" stroke-width="1.8" /><path d="M30 30V42M24 36H36" fill="none" stroke="var(--theme-icon-accent, #e83161)" stroke-width="3" /><g transform="translate(16 17) scale(0.55)"><path d="M-2 0C-12-9-14-2-11 4C-9 9-4 5-2 3Z" fill="var(--theme-icon-accent, #e83161)" stroke="var(--theme-icon-ink, currentColor)" stroke-width="1.7" /><path d="M2 0C12-9 14-2 11 4C9 9 4 5 2 3Z" fill="var(--theme-icon-accent, #e83161)" stroke="var(--theme-icon-ink, currentColor)" stroke-width="1.7" /><ellipse cx="0" cy="1" rx="3" ry="3.5" fill="var(--theme-icon-accent, #e83161)" stroke="var(--theme-icon-ink, currentColor)" stroke-width="1.6" /></g>
+  </g>
+</svg>
