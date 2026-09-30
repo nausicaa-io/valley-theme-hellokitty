@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 12L36 36M36 12L12 36" fill="none" stroke="var(--theme-icon-line, currentColor)" stroke-width="3.5"/><circle cx="12" cy="12" r="3" fill="var(--theme-icon-accent, #e83161)" stroke="var(--theme-icon-ink, currentColor)" stroke-width="1.4"/><circle cx="36" cy="12" r="3" fill="var(--theme-icon-accent, #e83161)" stroke="var(--theme-icon-ink, currentColor)" stroke-width="1.4"/>
+  </g>
+</svg>

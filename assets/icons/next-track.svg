@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M39 10V38" fill="none" stroke="var(--theme-icon-line, currentColor)" stroke-width="3.8" /><path d="M11 10L31 24L11 38Z" fill="var(--theme-icon-soft, #ffc0d5)" stroke="var(--theme-icon-ink, currentColor)" stroke-width="2.3" />
+  </g>
+</svg>

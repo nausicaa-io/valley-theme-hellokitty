@@ -1,0 +1,12 @@
+{
+  "id": "hello-kitty",
+  "name": "Hello Kitty",
+  "version": "2.0.0",
+  "description": "Strawberry paper and deep cherry, ribbon tabs, Boldins headings, Files and footer with readable body text, and expressive Hello Kitty artwork in Light and Dark.",
+  "author": [
+    "nausicaa"
+  ],
+  "authorUrl": [
+    "https://github.com/nausicaa-io"
+  ]
+}

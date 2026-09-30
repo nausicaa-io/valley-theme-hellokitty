@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <g stroke-linecap="round" stroke-linejoin="round">
+<path d="M20 5H28L30 11L36 14L42 13L46 20L41 25L41 30L43 35L36 41L30 38L25 40L21 45L14 42L14 36L9 31L3 30V22L9 20L12 14L11 9Z" fill="var(--theme-icon-soft, #ffc0d5)" stroke="var(--theme-icon-ink, currentColor)" stroke-width="1.8" /><ellipse cx="24" cy="25" rx="9" ry="9" fill="var(--theme-icon-face, #fffafc)" stroke="var(--theme-icon-ink, currentColor)" stroke-width="1.6" /><g transform="translate(24 24) scale(0.65)"><path d="M-2 0C-12-9-14-2-11 4C-9 9-4 5-2 3Z" fill="var(--theme-icon-accent, #e83161)" stroke="var(--theme-icon-ink, currentColor)" stroke-width="1.7" /><path d="M2 0C12-9 14-2 11 4C9 9 4 5 2 3Z" fill="var(--theme-icon-accent, #e83161)" stroke="var(--theme-icon-ink, currentColor)" stroke-width="1.7" /><ellipse cx="0" cy="1" rx="3" ry="3.5" fill="var(--theme-icon-accent, #e83161)" stroke="var(--theme-icon-ink, currentColor)" stroke-width="1.6" /></g>
+  </g>
+</svg>

@@ -1,0 +1,39 @@
+{
+  "placements": {
+    "artwork": "stage",
+    "title": "top",
+    "timeline": "bottom",
+    "rewind": "bottom",
+    "play-pause": "bottom",
+    "forward": "bottom",
+    "time": "bottom",
+    "mute": "bottom",
+    "volume": "bottom",
+    "speed": "hidden",
+    "subtitles": "hidden",
+    "picture-in-picture": "hidden",
+    "appearance": "hidden",
+    "options": "bottom",
+    "fullscreen": "hidden"
+  },
+  "order": [
+    "artwork",
+    "title",
+    "timeline",
+    "rewind",
+    "play-pause",
+    "forward",
+    "time",
+    "mute",
+    "volume",
+    "speed",
+    "subtitles",
+    "picture-in-picture",
+    "appearance",
+    "options",
+    "fullscreen"
+  ],
+  "density": "comfortable",
+  "artworkSize": 248,
+  "stageFit": "contain"
+}
