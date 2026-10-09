@@ -1,4 +1,17 @@
 :root:where([data-design-theme='hello-kitty']) {
+  --content-text: var(--title-color);
+  --content-muted: color-mix(in srgb, var(--text-secondary) 60%, var(--title-color));
+  --surface-raised: var(--container-color-light);
+  --input-elevated-bg: var(--control-bg);
+  --input-elevated-border: var(--control-border);
+  --input-elevated-placeholder: var(--content-muted);
+  --input-elevated-shadow: none;
+  --hover-bg-strong: color-mix(in srgb, var(--title-color) 14%, var(--container-color));
+  --menu-glass-bg: var(--menu-bg);
+  --menu-glass-border: var(--menu-border);
+  --menu-glass-shadow: var(--shadow-menu);
+  --button-contrast-bg: var(--title-color);
+  --button-contrast-text: var(--pane-bg);
   --hello-kitty-classic-pink: rgba(247, 166, 191, 1);
   --hello-kitty-signature-red: rgba(225, 27, 46, 1);
   --hello-kitty-bright-yellow: rgba(254, 219, 0, 1);
